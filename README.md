@@ -27,3 +27,30 @@ Você pode personalizar a exibição das informações do endereço alterando o 
 
 Licença
 Este programa é distribuído sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+
+
+-----------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+#### Programming and Markup Langugaes:
+
+<a><img class="icons_curve" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
+<a><img class="icons_curve" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
+<a><img class="icons_curve" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
+<a><img class="icons_curve" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<a><img class="icons_curve" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+#### Frameworks:
+
+<a><img class="icons_curve" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>
+<a><img class="icons_curve" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
+
+
+------------------------------------------------------------------------------------------------------------------------
+#### CS50 Certificate:
+<img src="https://i.ibb.co/1zCkWhj/CS50x.png" alt="CS50x" border="0">
+
