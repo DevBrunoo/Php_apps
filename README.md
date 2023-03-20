@@ -50,7 +50,3 @@ Este programa é distribuído sob a Licença MIT. Consulte o arquivo LICENSE par
 <a><img class="icons_curve" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
 
 
-------------------------------------------------------------------------------------------------------------------------
-#### CS50 Certificate:
-<img src="https://i.ibb.co/1zCkWhj/CS50x.png" alt="CS50x" border="0">
-
