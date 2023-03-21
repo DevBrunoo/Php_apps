@@ -1,0 +1,9 @@
+Como fazer a cotacao usando o terminal
+
+---bash 
+
+cd economia
+
+php cotacao.php USD BRL
+
+php fechamento.php USD BRL 
