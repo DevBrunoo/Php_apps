@@ -1,0 +1,59 @@
+body {
+    background-image: url('./pexecoreios.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.button-seach-cep{
+    border-radius: 4px;
+    border: 1px solid;
+    
+}
+.div_1{
+    background-color: rgb(255, 255, 255);
+}
+.seach_bar{
+    text-align: center;
+    margin-top: 30px;
+
+}
+.field_1{
+    margin-top: 50px;
+    border-radius: 6px;
+    border-width: 4px solid black;
+    background-color: rgb(255, 255, 255);
+
+}
+.bodysuperior{
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+.button-seach-cep, .input_search {
+    font-size: 30px;
+    margin: 4 auto;
+}
+
+.p_fiel{
+    text-align: center;
+    font-size: 20px;
+    border-width: 5px;
+}
+
+.field-resultado{
+    border: 1px solid;
+    border-top: 4px solid black;
+    border-radius: 2px;
+}
+
+/* Adicionando uns efeitos no botão
+---------------------------------- */
+.button-seach-cep:hover{
+    background-color:rgb(44, 96, 78);
+    color:aliceblue;
+    
+}
+.leg_fiel{
+    font-size: 22px;
+    text-align: center;
+}
