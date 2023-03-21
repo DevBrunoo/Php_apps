@@ -35,7 +35,7 @@
                  $resultado1 = $_GET['produto1']; /* Aqui estou usando uma requisição GET para obter o valor de minha variável. É importante lembrar que o método GET pode apresentar riscos de segurança se não for usado adequadamente, portanto, é importante tomar medidas de segurança, como validar e filtrar os dados recebidos antes de usá-los. Legallllll neeeee amooooo*/
                  $resultado2 = $_GET['produto2'];
                  $operator = $_GET['operator'];
-                 $tx = 13.75 * 0.0105; /* Taixa da selic vezes 105% do CDI */
+                 $tx = 13.75 * 0.0105; /* Taixa da selic vezes 105% do CDI. O 13.75 esta representando a SELIC, caso voce queira mudar fique a vontade */
                  switch ($operator){
                      case"None":
                         echo "Selecione um metodo ";
