@@ -1,0 +1,45 @@
+/* Definindo imagen de fundo é espaçamento */
+body {
+    background-image: url('./pingexplosion.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .leg1{
+    font-size:30px;
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+    border-radius: 6px;
+  }
+  .fiel_1{
+    border: 1px solid;
+    border-top: 4px solid rgb(49, 159, 106);
+    border-radius: 2px;
+    margin-top: 50px;
+    border-radius: 6px;
+    border-width: 4px;
+    background-color: rgb(255, 255, 255);
+    border-bottom-left-radius: 6px rgb(32, 60, 32);
+  }
+  body{
+    margin-left: 30%;
+    margin-right: 18%;
+  }
+  p{
+    font-size:20px;
+  }
+  .fied_2{
+    font-size: 28px;
+  }
+  .button2, input, option, select{
+    font-size: 24px;
+  }
+  /* Colocando o botão um pouco mais para cima */
+  .button2{
+    margin-top: 2px;
+    margin-bottom: 9px;
+    border-radius: 3px; /* Adicionando borda ao botão */
+  }
+  .button2:hover{ /* Colocando um efeito ao passar o mouse */
+    background-color:rgb(56, 113, 90);
+    font-size: 28px;
+  }
