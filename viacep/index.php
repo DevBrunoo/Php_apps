@@ -1,3 +1,6 @@
+<h1>Digite /front.php na sua barra de pesquisa</h1>
+
+
 <?php 
 
 require __DIR__.'/vendor/autoload.php';
@@ -15,3 +18,5 @@ $dadosCEP = ViaCEP::consultarCEP($argv[1]);
 
 //IMPRIME O RESULTADO
 print_r($dadosCEP);
+
+?>

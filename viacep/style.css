@@ -6,7 +6,6 @@ body {
 .button-seach-cep{
     border-radius: 4px;
     border: 1px solid;
-    
 }
 .div_1{
     background-color: rgb(255, 255, 255);
@@ -14,14 +13,13 @@ body {
 .seach_bar{
     text-align: center;
     margin-top: 30px;
-
 }
 .field_1{
     margin-top: 50px;
     border-radius: 6px;
-    border-width: 4px solid black;
+    border-width: 4px;
     background-color: rgb(255, 255, 255);
-
+    border-bottom-left-radius: 6px black;
 }
 .bodysuperior{
     margin-left: 20%;

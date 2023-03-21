@@ -25,7 +25,7 @@
         <br>
 
         <!-- Codigo abaixo que possibilita a busca de CEP
-    ------------------------------------------------------------- -->
+        ------------------------------------------------- -->
         <p class="p_fiel">
             <?php
             if (isset($_POST['submit'])) {
