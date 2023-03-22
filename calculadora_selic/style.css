@@ -43,3 +43,22 @@ body {
     background-color:rgb(56, 113, 90);
     font-size: 28px;
   }
+/* Otimizando o site para dispositivos moveis */
+@media only screen and (max-width: 768px) {
+body{
+  background-image: url('./cofree.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.titulo_cal{
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 44px;
+}
+.fiel_1{
+  border: 1px solid;
+  border-top: 4px solid rgb(0, 50, 201);
+  border-radius: 4px;
+  
+}
+}

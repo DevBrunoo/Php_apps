@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
- <h1>Calculadora</h1>
+ <h1 class="titulo_cal">Calculadora</h1>
  <fieldset class="fiel_1">
     <legend class="leg1">Calcule o CDI</legend>
     <form>
