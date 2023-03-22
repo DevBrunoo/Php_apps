@@ -1,6 +1,13 @@
 Readme - API de Consulta de CEP
 Este é um programa em PHP que utiliza a API do ViaCEP para realizar consultas de CEP.
 
+## Exemplo da Api em funcionamento 
+
+<div style="max-width: 100%; overflow: hidden;">
+  <img src="./images/viacep-demo.gif" style="width: 100%; height: auto;">
+</div>
+
+
 Requisitos
 PHP 7 ou superior instalado no sistema.
 Extensão curl habilitada.
