@@ -36,11 +36,12 @@ body {
     text-align: center;
     font-size: 20px;
     border-width: 5px;
+    margin-top: 20px;
 }
 
 .field-resultado{
     border: 1px solid;
-    border-top: 4px solid black;
+    border-top: 9px solid black;
     border-radius: 2px;
 }
 
@@ -54,4 +55,49 @@ body {
 .leg_fiel{
     font-size: 22px;
     text-align: center;
+}
+
+
+/* Dimensionando para os lindos celulares */
+
+/* Para tornar o tema otimizável e responsivo para celular, você pode adicionar as seguintes propriedades CSS no seu código:
+ */
+@media only screen and (max-width: 768px) {
+/* Redimensionando o fundo da imagem para celular */
+
+
+/* Centralizando a barra de pesquisa */
+.seach_bar {
+margin-top: 20px;
+} 
+
+/* Redimensionando o tamanho da fonte do botão e do campo de pesquisa */
+.button-seach-cep,
+.input_search {
+font-size: 20px;
+}
+
+/* Redimensionando o tamanho da fonte do campo de resultado */
+.p_fiel {
+font-size: 16px;
+}
+
+/* Redimensionando o tamanho da fonte do título do campo de resultado */
+.leg_fiel {
+font-size: 18px;
+}
+
+/* Centralizando o campo de resultado */
+.field-resultado {
+margin: 0 auto;
+}
+body {
+    background-image: url('./pexels-karolina-grabowska-4498136.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+/* Ajustando a largura do campo de resultado */
+.field_1 {
+width: 90%;
+}
 }
