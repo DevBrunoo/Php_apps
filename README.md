@@ -92,7 +92,7 @@ Javascript, HTML, CSS, PHP, docker, xampp
 
 ## 🚀 About Me
 
-Olá é um prazer me apresentar a vocês meu nome é Bruno Oliveira. Atuo como engenheiro de software a mais de 3 anos e web designer ha mais de 5 anos por meio de projetos voluntários, possuo experiência em diversas linguagens de programação. Estou cursando bacharelado em engenharia da computação na faculdade UNIFRAN, uma das maiores da América do Sul, me formei em introdução à ciência da computação na Edex uma plataforma do MIT junto com Harvard, estou divulgando meus projetos no meu Instagram e GitHub diariamente contribuindo para evolução tecnológica que amo.
+Olá é um prazer me apresentar a vocês meu nome é Bruno Oliveira. Atuo como web developer desde 2020 por meio de projetos voluntários é pessoais, possuo experiência em diversas linguagens de programação. Estou cursando bacharelado em engenharia da computação na faculdade UNIFRAN, uma das maiores da América do Sul, me formei em introdução à ciência da computação na Edex uma plataforma do MIT junto com Harvard, estou divulgando meus projetos no meu Instagram e GitHub diariamente contribuindo para evolução tecnológica que amo.
 
 E o mais importante e que faço isso porque amo de coração e alma. 🚀🤍
 
